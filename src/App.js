@@ -6,9 +6,6 @@ import './fonts/font.css'
 import './components/index.css'
 import Wanttostand from './components/Wanttostand';
 
-
-
-
 function App() {
   return (
     <>
